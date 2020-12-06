@@ -1,0 +1,1 @@
+# no-allow-inline-style
